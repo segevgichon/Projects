@@ -1,0 +1,13 @@
+C:\Users\segev\Desktop\CS_homework\hw5\American Checkers\Ex05.GameUI\bin\Debug\Ex05.GameUI.exe.config
+C:\Users\segev\Desktop\CS_homework\hw5\American Checkers\Ex05.GameUI\bin\Debug\Ex05.GameUI.exe
+C:\Users\segev\Desktop\CS_homework\hw5\American Checkers\Ex05.GameUI\bin\Debug\Ex05.GameUI.pdb
+C:\Users\segev\Desktop\CS_homework\hw5\American Checkers\Ex05.GameUI\bin\Debug\Ex05.GameLogic.dll
+C:\Users\segev\Desktop\CS_homework\hw5\American Checkers\Ex05.GameUI\bin\Debug\Ex05.GameLogic.pdb
+C:\Users\segev\Desktop\CS_homework\hw5\American Checkers\Ex05.GameUI\bin\Debug\Ex05.GameLogic.dll.config
+C:\Users\segev\Desktop\CS_homework\hw5\American Checkers\Ex05.GameUI\obj\Debug\Ex05.GameUI.csproj.AssemblyReference.cache
+C:\Users\segev\Desktop\CS_homework\hw5\American Checkers\Ex05.GameUI\obj\Debug\Ex05.GameUI.GameSettingsForm.resources
+C:\Users\segev\Desktop\CS_homework\hw5\American Checkers\Ex05.GameUI\obj\Debug\Ex05.GameUI.csproj.GenerateResource.cache
+C:\Users\segev\Desktop\CS_homework\hw5\American Checkers\Ex05.GameUI\obj\Debug\Ex05.GameUI.csproj.CoreCompileInputs.cache
+C:\Users\segev\Desktop\CS_homework\hw5\American Checkers\Ex05.GameUI\obj\Debug\Ex05.GameUI.csproj.CopyComplete
+C:\Users\segev\Desktop\CS_homework\hw5\American Checkers\Ex05.GameUI\obj\Debug\Ex05.GameUI.exe
+C:\Users\segev\Desktop\CS_homework\hw5\American Checkers\Ex05.GameUI\obj\Debug\Ex05.GameUI.pdb
