@@ -1,7 +1,0 @@
-C:\Users\segev\Desktop\CS_homework\hw3\NoahSchlesinger 341066207 SegevGichon 316502046\Ex03.GarageLogic\bin\Debug\Ex03.GarageLogic.dll.config
-C:\Users\segev\Desktop\CS_homework\hw3\NoahSchlesinger 341066207 SegevGichon 316502046\Ex03.GarageLogic\bin\Debug\Ex03.GarageLogic.dll
-C:\Users\segev\Desktop\CS_homework\hw3\NoahSchlesinger 341066207 SegevGichon 316502046\Ex03.GarageLogic\bin\Debug\Ex03.GarageLogic.pdb
-C:\Users\segev\Desktop\CS_homework\hw3\NoahSchlesinger 341066207 SegevGichon 316502046\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.csproj.AssemblyReference.cache
-C:\Users\segev\Desktop\CS_homework\hw3\NoahSchlesinger 341066207 SegevGichon 316502046\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.csproj.CoreCompileInputs.cache
-C:\Users\segev\Desktop\CS_homework\hw3\NoahSchlesinger 341066207 SegevGichon 316502046\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.dll
-C:\Users\segev\Desktop\CS_homework\hw3\NoahSchlesinger 341066207 SegevGichon 316502046\Ex03.GarageLogic\obj\Debug\Ex03.GarageLogic.pdb
